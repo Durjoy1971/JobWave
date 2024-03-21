@@ -39,7 +39,7 @@ function App() {
         <div className="w-auto mb-10 flex justify-center ">
           <button
             onClick={inverseData}
-            className=" bg-zinc-500 text-white font-semibold py-2 px-4 rounded-md"
+            className=" bg-zinc-500 text-white font-semibold text-base py-2 px-4 rounded-md"
           >
             Clear Filter
           </button>
