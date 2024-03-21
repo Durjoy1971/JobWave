@@ -23,7 +23,15 @@ Check out the live demo [here](https://jobwave.netlify.app/).
 - Tailwind CSS
 - Firebase
 - Dayjs
-  
+
+## Screenshots
+
+![image](https://github.com/Durjoy1971/JobWave/assets/91456847/2cedbea0-2a91-48da-b88c-d18e6a430362)
+![image](https://github.com/Durjoy1971/JobWave/assets/91456847/cd99ee44-8b63-4e18-a8ff-6be560299f7c)
+![image](https://github.com/Durjoy1971/JobWave/assets/91456847/e97e74da-69a1-415d-90de-7ee579d50d82)
+
+
+
 ## Setup
 
 1. Clone the repository.
