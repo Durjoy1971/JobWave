@@ -2,10 +2,7 @@ import dayjs from "dayjs";
 
 function Jobcard(props) {
   const cur_date = dayjs(Date.now());
-  // console.log(cur_date);
-  // console.log(props.postedDate);
   const diffInDays = cur_date.diff(props.postedDate, "days");
-  // console.log(diffInDays);
   const day = diffInDays === 1 ? "day" : "days";
 
   const skills = props.skills;
